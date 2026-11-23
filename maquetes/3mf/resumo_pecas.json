@@ -1,0 +1,122 @@
+{
+  "1_casa_ipe_1-100": {
+    "A_terreno_e_terreo": {
+      "dimensoes_mm": [
+        200.0,
+        160.0,
+        35.8
+      ],
+      "volume_cm3": 157.6
+    },
+    "B_laje_e_pavimento_superior": {
+      "dimensoes_mm": [
+        160.0,
+        110.0,
+        32.3
+      ],
+      "volume_cm3": 70.7
+    },
+    "C_cobertura": {
+      "dimensoes_mm": [
+        134.0,
+        99.0,
+        6.0
+      ],
+      "volume_cm3": 31.0
+    }
+  },
+  "2_condominio_recanto_1-500": {
+    "base_1_frente_esquerda": {
+      "dimensoes_mm": [
+        200.0,
+        200.0,
+        10.8
+      ],
+      "volume_cm3": 147.8
+    },
+    "base_2_frente_direita": {
+      "dimensoes_mm": [
+        200.0,
+        200.0,
+        10.8
+      ],
+      "volume_cm3": 147.8
+    },
+    "base_3_fundo_esquerda": {
+      "dimensoes_mm": [
+        200.0,
+        200.0,
+        12.8
+      ],
+      "volume_cm3": 147.6
+    },
+    "base_4_fundo_direita": {
+      "dimensoes_mm": [
+        200.0,
+        200.0,
+        14.6
+      ],
+      "volume_cm3": 168.3
+    },
+    "casa_modelo_A": {
+      "dimensoes_mm": [
+        17.2,
+        21.2,
+        15.6
+      ],
+      "volume_cm3": 4.4
+    },
+    "casa_modelo_B": {
+      "dimensoes_mm": [
+        16.0,
+        20.0,
+        13.0
+      ],
+      "volume_cm3": 3.2
+    },
+    "placa_20_casas": {
+      "dimensoes_mm": [
+        121.2,
+        111.2,
+        15.6
+      ],
+      "volume_cm3": 75.8
+    }
+  },
+  "3_torre_aurora_1-200": {
+    "A_terreo_com_jardim": {
+      "dimensoes_mm": [
+        160.0,
+        130.0,
+        28.5
+      ],
+      "volume_cm3": 94.9
+    },
+    "B_pavimento_tipo_imprimir_14x": {
+      "dimensoes_mm": [
+        110.0,
+        88.0,
+        17.0
+      ],
+      "volume_cm3": 11.1
+    },
+    "C_cobertura": {
+      "dimensoes_mm": [
+        110.0,
+        80.0,
+        20.0
+      ],
+      "volume_cm3": 57.4
+    }
+  },
+  "4_miniatura_aurora": {
+    "miniatura_completa": {
+      "dimensoes_mm": [
+        76.0,
+        52.0,
+        96.0
+      ],
+      "volume_cm3": 106.4
+    }
+  }
+}
